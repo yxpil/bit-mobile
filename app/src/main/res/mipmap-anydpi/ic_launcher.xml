@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 自适应图标：黑白像素 B（mipmap-*ic_launcher_foreground.png，62% 内容占比）+ 纯黑背景，
+     形状由启动器蒙版决定；minSdk 29 全部走自适应，无需遗留密度图 -->
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@color/ic_launcher_background" />
+    <foreground android:drawable="@mipmap/ic_launcher_foreground" />
+</adaptive-icon>
