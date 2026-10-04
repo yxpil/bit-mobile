@@ -42,3 +42,15 @@ BIT 移动端伴侣应用（原生 Android / Jetpack Compose）：在桌面端 B
 ## 许可
 
 [Apache-2.0](LICENSE)
+
+---
+
+<div align="center">
+
+<a href="https://github.com/yxpil/bit-mobile">
+  <img width="100%" src="https://alittlecatgirlpanel.yxp.hk/card?repo=yxpil/bit-mobile" alt="gh-card · yxpil/bit-mobile" />
+</a>
+
+<sub>Powered by <a href="https://alittlecatgirlpanel.yxp.hk"><b>gh-card</b></a> · 粉色手写体 README 仓库名片</sub>
+
+</div>
